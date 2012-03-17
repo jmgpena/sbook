@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/PEAR/Command
+END
+Mirror.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/PEAR/Command/Mirror.php
+END
+Package.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/PEAR/Command/Package.php
+END
+Remote.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/PEAR/Command/Remote.php
+END
+Build.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/PEAR/Command/Build.php
+END
+Auth.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/PEAR/Command/Auth.php
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/PEAR/Command/Config.php
+END
+Install.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/PEAR/Command/Install.php
+END
+Common.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/PEAR/Command/Common.php
+END
+Registry.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/PEAR/Command/Registry.php
+END

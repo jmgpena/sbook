@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/Mail
+END
+null.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/Mail/null.php
+END
+mimeDecode.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/Mail/mimeDecode.php
+END
+sendmail.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/Mail/sendmail.php
+END
+mimePart.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/Mail/mimePart.php
+END
+mail.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/Mail/mail.php
+END
+smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/Mail/smtp.php
+END
+RFC822.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/Mail/RFC822.php
+END
+mime.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/Mail/mime.php
+END

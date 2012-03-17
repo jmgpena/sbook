@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/54/trunk/www/sbook/modules/pear/Spreadsheet/Excel/Writer
+END
+Worksheet.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/54/trunk/www/sbook/modules/pear/Spreadsheet/Excel/Writer/Worksheet.php
+END
+Parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/54/trunk/www/sbook/modules/pear/Spreadsheet/Excel/Writer/Parser.php
+END
+Workbook.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/54/trunk/www/sbook/modules/pear/Spreadsheet/Excel/Writer/Workbook.php
+END
+BIFFwriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/54/trunk/www/sbook/modules/pear/Spreadsheet/Excel/Writer/BIFFwriter.php
+END
+Validator.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/54/trunk/www/sbook/modules/pear/Spreadsheet/Excel/Writer/Validator.php
+END
+Format.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/54/trunk/www/sbook/modules/pear/Spreadsheet/Excel/Writer/Format.php
+END

@@ -1,0 +1,23 @@
+[08-Jan-2010 15:58:17] PHP Fatal error:  Class 'noticias' not found in C:\wamp\www\sbook\app\actions\main.php on line 15
+[08-Jan-2010 15:58:17] PHP Fatal error:  Class 'noticias' not found in C:\wamp\www\sbook\app\actions\main.php on line 15
+[08-Jan-2010 15:58:20] PHP Fatal error:  Class 'noticias' not found in C:\wamp\www\sbook\app\actions\main.php on line 15
+[08-Jan-2010 15:58:30] PHP Notice:  Undefined offset: 8192 in C:\wamp\www\sbook\sbook\modules\pear\MDB2.php on line 395
+[08-Jan-2010 15:58:30] PHP Notice:  Undefined offset: 8192 in C:\wamp\www\sbook\sbook\modules\pear\MDB2.php on line 1741
+[08-Jan-2010 15:58:30] PHP Notice:  Undefined offset: 8192 in C:\wamp\www\sbook\sbook\modules\pear\MDB2.php on line 2207
+[08-Jan-2010 15:58:30] PHP Notice:  Undefined offset: 8192 in C:\wamp\www\sbook\sbook\modules\pear\MDB2.php on line 2230
+[08-Jan-2010 15:58:30] PHP Notice:  Undefined offset: 8192 in C:\wamp\www\sbook\sbook\modules\pear\MDB2.php on line 2583
+[08-Jan-2010 15:58:30] PHP Notice:  Undefined offset: 8192 in C:\wamp\www\sbook\sbook\modules\pear\PEAR.php on line 540
+[08-Jan-2010 15:58:30] PHP Notice:  Undefined offset: 8192 in C:\wamp\www\sbook\sbook\modules\pear\PEAR.php on line 543
+[08-Jan-2010 15:58:30] PHP Fatal error:  Call to undefined method MDB2_Error::loadModule() in C:\wamp\www\sbook\sbook\libs\model.php on line 150
+[08-Jan-2010 15:58:52] PHP Notice:  Undefined offset: 8192 in C:\wamp\www\sbook\sbook\modules\pear\MDB2.php on line 395
+[08-Jan-2010 15:58:52] PHP Notice:  Undefined offset: 8192 in C:\wamp\www\sbook\sbook\modules\pear\MDB2.php on line 1741
+[08-Jan-2010 15:58:52] PHP Notice:  Undefined offset: 8192 in C:\wamp\www\sbook\sbook\modules\pear\MDB2.php on line 2207
+[08-Jan-2010 15:58:52] PHP Notice:  Undefined offset: 8192 in C:\wamp\www\sbook\sbook\modules\pear\MDB2.php on line 2230
+[08-Jan-2010 15:58:52] PHP Notice:  Undefined offset: 8192 in C:\wamp\www\sbook\sbook\modules\pear\MDB2.php on line 2583
+[08-Jan-2010 15:58:52] PHP Notice:  Undefined offset: 8192 in C:\wamp\www\sbook\sbook\modules\pear\PEAR.php on line 540
+[08-Jan-2010 15:58:52] PHP Notice:  Undefined offset: 8192 in C:\wamp\www\sbook\sbook\modules\pear\PEAR.php on line 543
+[08-Jan-2010 15:58:52] PHP Fatal error:  Call to undefined method MDB2_Error::loadModule() in C:\wamp\www\sbook\sbook\libs\model.php on line 150
+[08-Jan-2010 15:59:16] PHP Fatal error:  Call to undefined method MDB2_Error::loadModule() in C:\wamp\www\sbook\sbook\libs\model.php on line 150
+[08-Jan-2010 15:59:39] PHP Fatal error:  Call to undefined method MDB2_Error::loadModule() in C:\wamp\www\sbook\sbook\libs\model.php on line 150
+[08-Jan-2010 15:59:42] PHP Fatal error:  Call to undefined method MDB2_Error::loadModule() in C:\wamp\www\sbook\sbook\libs\model.php on line 150
+[08-Jan-2010 16:02:55] PHP Fatal error:  Call to undefined method MDB2_Error::loadModule() in C:\wamp\www\sbook\sbook\libs\model.php on line 150

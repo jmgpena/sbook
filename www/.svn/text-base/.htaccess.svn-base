@@ -1,0 +1,63 @@
+# Site performance Optimization (ver: http://developer.yahoo.com/performance/rules.html#etags)
+FileETag none
+
+php_value max_input_time 240
+php_value post_max_size 20M
+php_value upload_max_filesize 20M
+
+AddDefaultCharset On
+AddDefaultCharset ISO-8859-1
+
+<IfModule mod_deflate.c>
+	<FilesMatch "\.(js|css|php|html|gif|png|swf)$">
+    	SetOutputFilter DEFLATE
+	</FilesMatch>
+</IfModule>
+
+<IfModule mod_gzip.c>
+	mod_gzip_on                   Yes
+	mod_gzip_item_include         file       \.php$
+	mod_gzip_item_include         file       \.html$
+	mod_gzip_item_include         file       \.js$
+	mod_gzip_item_include         file       \.css$
+	mod_gzip_item_include         mime       ^text/html$
+  	mod_gzip_item_include         mime       ^text/plain$
+  	mod_gzip_item_include         mime       ^text/css$
+  	mod_gzip_item_include         mime       ^text/javascript$
+  	mod_gzip_item_include         mime       ^text/ecmascript$
+  	mod_gzip_item_include         mime       ^application/x-javascript$
+  	mod_gzip_item_include         mime       ^application/javascript$
+  	mod_gzip_dechunk              Yes
+</IfModule>
+
+
+<IfModule mod_expires.c>
+	<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf)$">
+		Header set Cache-Control "public"
+		ExpiresActive On
+		ExpiresDefault "access plus 10 years"
+		ExpiresByType image/gif "modification plus 10 years"
+	</FilesMatch>
+
+	<FilesMatch "(titles|thumbs.php)$">
+		Header set Cache-Control "public"
+		ExpiresActive On
+		ExpiresDefault "access plus 10 years"
+		ExpiresByType image/gif "modification plus 10 years"
+	</FilesMatch>
+</IfModule>
+
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+
+    # Base URI for all rewritten urls
+    # if sBook is inside a folder you need to change this. Ex: RewriteBase /gourmet
+    RewriteBase /
+
+    # Prevent access to any file inside the sbook folder
+    RewriteRule ^sbook/(.*)$ [f]
+
+	# Rewrite all requests to sbook
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^(.*)$ index.php?url=$1 [QSA,L]
+</IfModule>

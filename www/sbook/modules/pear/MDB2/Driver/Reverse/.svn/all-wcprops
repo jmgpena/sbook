@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/MDB2/Driver/Reverse
+END
+mysqli.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/MDB2/Driver/Reverse/mysqli.php
+END
+mssql.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/MDB2/Driver/Reverse/mssql.php
+END
+sqlite.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/MDB2/Driver/Reverse/sqlite.php
+END
+mysql.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/MDB2/Driver/Reverse/mysql.php
+END
+Common.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/MDB2/Driver/Reverse/Common.php
+END

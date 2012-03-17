@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/PEAR
+END
+Remote.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/PEAR/Remote.php
+END
+Installer.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/PEAR/Installer.php
+END
+Packager.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/PEAR/Packager.php
+END
+Downloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/PEAR/Downloader.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/PEAR/Exception.php
+END
+Dependency.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/PEAR/Dependency.php
+END
+Command.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/PEAR/Command.php
+END
+Autoloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/PEAR/Autoloader.php
+END
+ErrorStack.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/PEAR/ErrorStack.php
+END
+RunTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/PEAR/RunTest.php
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/PEAR/Config.php
+END
+Builder.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/PEAR/Builder.php
+END
+Registry.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/PEAR/Registry.php
+END
+Common.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/PEAR/Common.php
+END

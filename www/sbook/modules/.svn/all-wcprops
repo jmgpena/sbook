@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/55/trunk/www/sbook/modules
+END
+class.template.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/43/trunk/www/sbook/modules/class.template.php
+END
+class.phpmailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/www/sbook/modules/class.phpmailer.php
+END
+class.smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/www/sbook/modules/class.smtp.php
+END

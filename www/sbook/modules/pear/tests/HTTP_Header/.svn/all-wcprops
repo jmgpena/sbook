@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/tests/HTTP_Header
+END
+header_cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/tests/HTTP_Header/header_cache.php
+END
+response.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/tests/HTTP_Header/response.php
+END
+cacheresponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/tests/HTTP_Header/cacheresponse.php
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/tests/HTTP_Header/README.txt
+END
+header.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/tests/HTTP_Header/header.php
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/tests/XML_Parser/tests
+END
+test2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/tests/XML_Parser/tests/test2.xml
+END
+test3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/tests/XML_Parser/tests/test3.xml
+END
+001.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/tests/XML_Parser/tests/001.phpt
+END
+002.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/tests/XML_Parser/tests/002.phpt
+END
+003.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/tests/XML_Parser/tests/003.phpt
+END
+004.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/tests/XML_Parser/tests/004.phpt
+END
+005.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/www/sbook/modules/pear/tests/XML_Parser/tests/005.phpt
+END
